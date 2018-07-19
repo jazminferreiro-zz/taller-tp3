@@ -1,0 +1,4 @@
+==8029== /home/jaz/.valgrindrc was not read as it is either world writeable or not owned by the current user
+terminate called after throwing an instance of 'Error'
+  what():  Error in bind: Address already in use
+
